@@ -19,7 +19,7 @@
   - trying different regression models 
 - Hyperparameter tuning using grid search
 
-#### This project is the final project of the "Supervised Machine Learning: Regression" course given by IBM on Coursera. I have finished it with a Honor Degree and here is the [Link ]([https://website-name.com](https://www.coursera.org/account/accomplishments/verify/BZY2WBWJS6C4))
+#### This project is the final project of the "Supervised Machine Learning: Regression" course given by IBM on Coursera. I have finished it with a Honor Degree and here is the [link](https://www.coursera.org/account/accomplishments/verify/BZY2WBWJS6C4)
 
 ### ✔ Results
 - In this dataset, One-Hot Encoding is used to transform categorical variables, such as "Type" and "Suburb" into binary variables, it avoids implying any ordinal relationship between categories.
